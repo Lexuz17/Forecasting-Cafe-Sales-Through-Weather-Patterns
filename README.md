@@ -1,4 +1,4 @@
-# Weather_Paterns_to_Forecast_Cafe_Sales
+# Forecasting Cafe Sales Through Weather Patterns
 
 ## **Description**
 The "Weather_Patterns_to_Forecast_Cafe_Sales" project investigates the connection between weather variables and consumer behavior using LST, LGBM, Simple RNN, and Ridge Regression models. By deciphering how weather influences cafe sales, this study aids Small and Medium-sized Enterprises (UMKM) in optimizing inventory and resource management. The project empowers businesses to make informed decisions, reducing excess stock during low demand periods. Ultimately, it enhances UMKM operational efficiency, minimizing waste and maximizing effectiveness. This endeavor showcases data-driven decision-making, merging predictive techniques and weather insights to elevate cafe performance in varying climatic conditions.
