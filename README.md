@@ -16,7 +16,7 @@ Steps:
    - Fixed Outlier
    - Feature Selection
    - Standard Scaler
-5. Moddeling
+5. Modeling
     - LGBM
     - Ridge Regression
     - LSTM
@@ -25,7 +25,7 @@ Steps:
 7. Conclusion
 
 ## **Installation**
-1. Clone the repository: `git clone https://github.com/Lexuz17/Sentiment_Education_Analysis_Clustering.git`
+1. Clone the repository: `git clone https://github.com/Lexuz17/Forecasting-Cafe-Sales-Through-Weather-Patterns.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## **Results and Findings**
